@@ -33,7 +33,7 @@ Sebelum berkontribusi ke project ini pastikan sudah melakukan langkah - langkah 
 
 Berikut cara berkontribusi ke project ini :
 
-### 1.  Rapid TC-Bootcam Landing Page Prototyping
+## 1.  Rapid TC-Bootcam Landing Page Prototyping
 Convert desain landing page sesuai dengan technology stack yang ditentukan di bawah ini. Tambahkan folder dengan `topcoder_handle_anda` yang berisi hasil prototyping anda ke dalam folder `submission`. 
 
 # Desain Landing Page
