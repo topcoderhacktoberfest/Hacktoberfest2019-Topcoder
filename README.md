@@ -28,7 +28,7 @@ Sebelum berkontribusi ke project ini pastikan sudah melakukan langkah - langkah 
 
 >2.Mendaftar di website official [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
->3.Register pada Challenge Topcoder [Berikut](http://bit.ly/tc-ina)
+>3.Register pada Challenge Topcoder [Berikut](https://www.topcoder.com/challenges/30104625)
 
 
 Berikut cara berkontribusi ke project ini :
