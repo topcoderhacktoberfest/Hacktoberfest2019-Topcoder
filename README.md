@@ -1,7 +1,7 @@
 <img src="https://www.betterteam.com/i/topcoder-job-posting-420x320-20190109.png" align="right"
      alt="Topcoder" width="170">
 
-# Hacktoberfest2019-Topcoder
+# Hacktoberfest2019 - Topcoder
 Repository untuk Booth Topcoder di Hacktoberfest 2019 Medan
 **Project ini terbuka bagi semua member Facebook Developer Circle Medan.**
 
