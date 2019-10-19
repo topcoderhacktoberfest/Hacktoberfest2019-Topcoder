@@ -24,11 +24,11 @@ Hacktoberfest memberikan hadiah menarik seperti t-shirt & sticker bagi kontribut
 ## Cara kontribusi ke project ini
 Sebelum berkontribusi ke project ini pastikan sudah melakukan langkah - langkah berikut:
 
->1. Pastikan anda sudah menjadi member Topcoder [Topcoder](http://bit.ly/tc-ina)
+>1. Pastikan anda sudah menjadi member [Topcoder](http://bit.ly/tc-ina)
 
 >2. Mendaftar di website official [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
->3. Register pada Challenge Topcoder Berikut [Topcoder](http://bit.ly/tc-ina)
+>3. Register pada Challenge Topcoder [Berikut](http://bit.ly/tc-ina)
 
 
 Berikut cara berkontribusi ke project ini :
