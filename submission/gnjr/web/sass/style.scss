@@ -1,0 +1,37 @@
+// variable scss
+@import "variables";
+
+// mixin scss
+@import "mixins";
+@import "extends";
+// default scss
+@import "common";
+
+// button scss
+@import "button";
+
+@import "blog";
+@import "single_blog";
+// body scss
+@import "menu";
+@import "banner";
+@import "about";
+@import "service";
+@import "portfolio";
+@import "review";
+@import "gallery_part";
+@import "blog_part";
+@import "social_connect_part";
+@import "copyright_part";
+@import "team";
+@import "contact";
+@import "project_details";
+
+// breadcrumb scss
+@import "breadcrumb";
+
+
+@import "footer";
+@import "elements";
+
+

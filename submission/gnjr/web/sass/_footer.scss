@@ -1,0 +1,119 @@
+//--------- start footer Area -------------//
+.footer-area {
+	background-color: $section_bg;
+	padding: 140px 0px 100px;
+	@media (max-width: 991px) {
+		padding: 60px 0px;
+	}
+	.single-footer-widget {
+		@media (max-width: 991px) {
+			margin-bottom: 30px;
+		}
+
+		p{
+			color: #666666;
+		}
+
+		h4 {
+			color: $heading_color;
+			font-style: inherit;
+			margin-bottom: 30px;
+			font-weight: 700;
+			font-size: 20px;
+			@media (max-width: 1024px) {
+				font-size: 18px;
+			}
+			@media (max-width: 991px) {
+				margin-bottom: 15px;
+			}
+		}
+		ul {
+			li {
+				margin-bottom: 14px;
+				a {
+					color: #666666;
+					@include transform_time(0.5s);
+					&:hover{
+						color: $btn_bg;
+					}
+				}
+			}
+		}
+		.form-wrap {
+			margin-top: 25px;
+		}
+		input {
+			height: 48px;
+			border: none;
+			width: 67% !important;
+			font-weight: 400;
+			background: transparent;
+			padding-left: 20px;
+			border-radius: 0;
+			font-size: 14px;
+			padding: 10px;
+			border: 1px solid #e1e1e1;
+			color: #999999;
+			&:focus {
+				outline: none;
+				box-shadow: none;
+			}
+		}
+		.click-btn {
+			background-color: $btn_bg;
+			color: $white_color;
+			border-radius: 0;
+			border-top-left-radius: 0px;
+			border-bottom-left-radius: 0px;
+			padding: 8px 20px;
+			border: 0;
+			font-size: 12px;
+			font-weight: 400;
+			font-family: $font_stack_1;
+			position: relative;
+			left: 0;
+			&:focus {
+				outline: none;
+				box-shadow: none;
+      }
+      
+      @media(max-width: 375px){
+        margin-top: 10px;
+      }
+
+			@media(min-width: 400px){
+				left: -50px;
+			}
+		}
+	}
+	.footer-bottom {
+		margin-top: 70px;
+		@media (max-width: 991px) {
+			margin-top: 20px;
+		}
+		.footer-social {
+			text-align: center;
+			@media (max-width: 991px) {
+				text-align: left;
+				margin-top: 30px;
+			}
+			a {
+				background: rgba(255, 255, 255, 0.15);
+				margin-left: 3px;
+				width: 32px;
+				display: inline-grid;
+				text-align: center;
+				height: 32px;
+				align-content: center;
+
+				i,span{
+					font-size: 14px;
+				}
+			}
+		}
+	}
+	.btn_2{
+		margin-top: 0px;
+	}
+}
+//--------- end footer Area -------------//
