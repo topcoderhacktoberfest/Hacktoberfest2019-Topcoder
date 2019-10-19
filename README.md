@@ -28,7 +28,7 @@ Sebelum berkontribusi ke project ini pastikan sudah melakukan langkah - langkah 
 
 >2.Mendaftar di website official [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
->3.Register pada Challenge Topcoder [Berikut](http://bit.ly/tc-ina)
+>3.Register pada Challenge Topcoder [Berikut](https://www.topcoder.com/challenges/30104625)
 
 
 Berikut cara berkontribusi ke project ini :
@@ -36,10 +36,14 @@ Berikut cara berkontribusi ke project ini :
 ### Step 1.  Landing Page Prototyping
 Convert desain landing page sesuai dengan technology stack yang ditentukan di bawah ini. Tambahkan folder dengan `topcoder_handle_anda` yang berisi hasil prototyping anda ke dalam folder `submission`. 
 
-```markdown
-#### Desain Landing Page
-https://marvelapp.com/d0c211b
 
+#### Desain Landing Page
+https://marvelapp.com/d0c211b/screen/62613140/handoff
+
+#### Icon dan Font 
+Icon dan font bisa di download di folder assets
+
+```markdown
 #### Technology Stack
 - HTML
 - CSS
