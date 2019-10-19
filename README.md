@@ -1,7 +1,7 @@
 <img src="https://www.betterteam.com/i/topcoder-job-posting-420x320-20190109.png" align="right"
      alt="Topcoder" width="170">
 
-# Hacktoberfest2019 - Topcoder
+## Hacktoberfest2019 - Topcoder
 Repository untuk Booth Topcoder di Hacktoberfest 2019 Medan
 **Project ini terbuka bagi semua member Facebook Developer Circle Medan.**
 
@@ -33,20 +33,24 @@ Sebelum berkontribusi ke project ini pastikan sudah melakukan langkah - langkah 
 
 Berikut cara berkontribusi ke project ini :
 
-## 1.  Rapid TC-Bootcam Landing Page Prototyping
+### 1.  Rapid TC-Bootcam Landing Page Prototyping
 Convert desain landing page sesuai dengan technology stack yang ditentukan di bawah ini. Tambahkan folder dengan `topcoder_handle_anda` yang berisi hasil prototyping anda ke dalam folder `submission`. 
 
-# Desain Landing Page
+```markdown
+#### Desain Landing Page
 https://marvelapp.com/d0c211b
+```markdown
 
-# Technology Stack
+```markdown
+#### Technology Stack
 - HTML
 - CSS
 - BOOTSTRAP
 - JS
+```markdown
 
 ```markdown
-# Isi Folder Submission
+#### Isi Folder Submission
 - Source Code Hasil Protyping Anda
 - File Readme berisi data diri anda
 ```
@@ -59,14 +63,11 @@ Silahkan tunjukkan hasil PR dan submission anda kepada Member Topcoder yang
 ada di booth dan tukarkan dengan souvenir dari kami. 
 `Ada 15 Main Souvenir untuk 15 Submission Terbaik`
 
-
-
-
 **Perhatian :**
 Jangan merubah file apapun selain folder submission yang berisi topcoder handle yang anda miliki.
 
 
-## Getting started
+## Github Getting started
 * Fork repository ini ( Klik tombol fork di bagian atas kanan halaman ini )
 * Clone hasil fork nya ke komputer anda.
 ```markdown
