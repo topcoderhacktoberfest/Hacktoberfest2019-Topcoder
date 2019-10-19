@@ -24,16 +24,16 @@ Hacktoberfest memberikan hadiah menarik seperti t-shirt & sticker bagi kontribut
 ## Cara kontribusi ke project ini
 Sebelum berkontribusi ke project ini pastikan sudah melakukan langkah - langkah berikut:
 
->1. Pastikan anda sudah menjadi member [Topcoder](http://bit.ly/tc-ina)
+>1.Pastikan anda sudah menjadi member [Topcoder](http://bit.ly/tc-ina)
 
->2. Mendaftar di website official [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
+>2.Mendaftar di website official [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
->3. Register pada Challenge Topcoder [Berikut](http://bit.ly/tc-ina)
+>3.Register pada Challenge Topcoder [Berikut](http://bit.ly/tc-ina)
 
 
 Berikut cara berkontribusi ke project ini :
 
-### 1.  Landing Page Prototyping
+### Step 1.  Landing Page Prototyping
 Convert desain landing page sesuai dengan technology stack yang ditentukan di bawah ini. Tambahkan folder dengan `topcoder_handle_anda` yang berisi hasil prototyping anda ke dalam folder `submission`. 
 
 ```markdown
@@ -50,11 +50,11 @@ https://marvelapp.com/d0c211b
 - Source Code Hasil Protyping Anda
 - File Readme berisi data diri anda
 ```
-### 2.  Submit Ke Topcoder Challenge 
+### Step 2.  Submit Ke Topcoder Challenge 
 Setelah Pull Request anda kami terima silahkan submit source code hasil prototyping anda beserta
 screenshot Pull Request yang kami terima buat dalam 1 zip file bernama `submission.zip`
 
-### 3.  Get Our Souvenir
+### Step 3.  Get Our Souvenir
 Silahkan tunjukkan hasil PR dan submission anda kepada Member Topcoder yang 
 ada di booth dan tukarkan dengan souvenir dari kami. 
 `Ada 15 Main Souvenir untuk 15 Submission Terbaik`
