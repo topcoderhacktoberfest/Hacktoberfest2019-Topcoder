@@ -54,6 +54,12 @@ https://marvelapp.com/d0c211b
 Setelah Pull Request anda kami terima silahkan submit source code hasil prototyping anda beserta
 screenshot Pull Request yang kami terima buat dalam 1 zip file bernama `submission.zip`
 
+### 3.  Get Our Souvenir
+Silahkan tunjukkan hasil PR dan submission anda kepada Member Topcoder yang 
+ada di booth dan tukarkan dengan souvenir dari kami. 
+`Ada 15 Main Souvenir untuk 15 Submission Terbaik`
+
+
 
 
 **Perhatian :**
