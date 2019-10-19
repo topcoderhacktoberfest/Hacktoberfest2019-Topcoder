@@ -39,17 +39,13 @@ Convert desain landing page sesuai dengan technology stack yang ditentukan di ba
 ```markdown
 #### Desain Landing Page
 https://marvelapp.com/d0c211b
-```markdown
 
-```markdown
 #### Technology Stack
 - HTML
 - CSS
 - BOOTSTRAP
 - JS
-```markdown
 
-```markdown
 #### Isi Folder Submission
 - Source Code Hasil Protyping Anda
 - File Readme berisi data diri anda
